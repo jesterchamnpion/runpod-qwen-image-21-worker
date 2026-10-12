@@ -1,0 +1,7 @@
+.git
+.github
+official-ui-workflow.json
+request*.json
+response*.json
+*.png
+*.log
